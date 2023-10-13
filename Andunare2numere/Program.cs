@@ -1,4 +1,4 @@
-﻿namespace Andunare2numere
+﻿namespace Adunare2numere
 {
     internal class Program
     {
