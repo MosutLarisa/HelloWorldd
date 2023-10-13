@@ -5,9 +5,7 @@
         static void Main(string[] args)
         {
             string text1 = "file";
-            string text2 = "FILE";
-
-            //Thread.CurrentThread.CurrentCulture = new CultureInfo("tr-TR");
+            string text2 = "FILE"
 
             bool areEqual1 = (text1 == text2);
             bool areEqual2 = text1.Equals(text1, StringComparison.InvariantCultureIgnoreCase);
